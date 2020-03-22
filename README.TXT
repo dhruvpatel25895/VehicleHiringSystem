@@ -4,8 +4,6 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE: Assessment 12 - Project 3
-PURPOSE OF PROJECT:
 VERSION or DATE: 25th October 2017
 HOW TO START THIS PROJECT:
 AUTHORS: Dhruv
