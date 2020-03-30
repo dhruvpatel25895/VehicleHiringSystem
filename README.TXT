@@ -5,6 +5,4 @@ all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
 VERSION or DATE: 25th October 2017
-HOW TO START THIS PROJECT:
 AUTHORS: Dhruv
-USER INSTRUCTIONS:
